@@ -84,4 +84,4 @@ def detect_lanes(image_path):
     plt.close()  
 
 # PUT IMAGE PATH  
-detect_lanes("/home/faidbogi/ads/bdd100k_images_10k/10k/val/7d97d173-09388af3.jpg") 
+detect_lanes("7d97d173-09388af3.jpg") 
